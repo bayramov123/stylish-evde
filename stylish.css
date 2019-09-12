@@ -1,0 +1,116 @@
+/* birinci seksiya
+------------- */
+.stylish{
+ background-image:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg);
+text-align: center;
+padding: 185px 0;
+}
+* {
+    padding: 0;
+    margin: 0;
+
+}
+.stylish h1{
+    font-size: 80px;
+    color: #212529;
+   
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.stylish p{
+    font-style: italic;
+    font-weight: 900;
+    font-size: 25px;
+    padding-bottom: 50px;
+    color: #212529;
+}
+.stylish button, .future button{
+    padding: 20px 40px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background: #1d809f;
+    font-weight: 800; 
+    transition: backgraund .3s;
+}
+.stylish button:hover{
+background-color: #294750;
+}
+
+/* ----------------------
+birinci finish */
+/* birincinin sonu */
+
+
+/* ikinci hisse */
+.future{
+    text-align: center;
+    padding: 80px 0;
+
+}
+.future h2{
+    font-size: 30px;
+}
+.future p{
+    font-size: 19px;
+    padding: 20px 0 40px 0;
+}
+.future button{
+    background-color: #343a40;
+}
+.future button:hover{
+    background: #3c4042;
+}
+/* ---------ikinci hissenin sonu------ */
+
+
+
+/* ucuncu hisse */
+.service {
+padding: 50px 0;
+background-color: #1d809f
+}
+.service .text-holder{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.service .text-holder h4{
+    color: #ecb807;
+    font-weight: bold;
+}
+.service .text-holder h2{
+    color: white;
+    font-size: 35px;
+}
+.respons{
+    width: 100%;
+    height: 200px;
+}
+.wrapper{
+    width: 80%;
+    height: 200px;
+    margin: auto;
+}
+.icon-holder i{
+font-size: 50px;
+color: #070707;
+
+}
+.icon-holder{
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+.icon {
+    background: white;
+    width: max-content;
+    padding: 20px 25px;
+    border-radius: 50%;
+    margin: auto;
+}
+.icon-holder h3{
+    padding: 20px 0;
+}
+
+
