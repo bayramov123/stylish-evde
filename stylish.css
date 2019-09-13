@@ -113,4 +113,31 @@ color: #070707;
     padding: 20px 0;
 }
 
+/* ucuncunun sonu */
 
+.dorduncu{
+    background-image:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-callout.jpg);
+    text-align: center;
+    padding: 200px 0;  
+    margin: auto;
+}
+.dorduncu button{
+    padding: 20px 40px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background: #1d809f;
+    font-weight: 800; 
+    transition: backgraund .3s;
+}
+.dorduncu h2{
+    font-size: 2.4rem;
+    font-weight: 700;
+    max-width: 30rem;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    padding-top: 85px;
+
+    
+}
